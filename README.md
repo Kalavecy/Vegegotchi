@@ -3,7 +3,7 @@ A small serious game where you need to grow a plant. Like you would do with a Ta
 This game is created for educational purpose but you can play it if you enjoy !
 Still in progress.
 
-#TodoList
+# TodoList
 + Create the egg
 + Add the plant
 + List all of the factors
