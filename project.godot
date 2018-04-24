@@ -11,7 +11,13 @@ config_version=3
 [application]
 
 config/name="Vegegotchi"
+run/main_scene="res://game.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=640
+window/size/height=800
 
 [rendering]
 
